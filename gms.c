@@ -116,7 +116,7 @@ switch(getch()) {
             gotoxy(16,4);
         printf("\t");
             gotoxy(16,6);
-        printf("\tby *** Olyad B. & Surafel H. ***");
+        printf("\tby *** https://github.com/d1nsa ***");
             gotoxy(16,7);
         printf("\t");
             gotoxy(16,8);
