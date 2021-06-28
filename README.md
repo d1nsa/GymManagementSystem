@@ -8,3 +8,4 @@
 * Search Members : enables to search for specific members in the gym.  
 
 > Developed in C in Shell Script
+>> Use Default Password: pass
